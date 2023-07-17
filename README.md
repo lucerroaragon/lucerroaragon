@@ -35,7 +35,7 @@
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="" width="40" height="40"></a> 
 </div>
 
----
+
 
 ### 🔥 Look what I can do
 
@@ -43,6 +43,7 @@
     <a href="https://lucerroaragon.github.io/lu_cerroaragon/"><img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="" width="60" height="60"></a>
 </div>
 ---
+</div>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar <b>,¡estaré feliz de conocerte más!</b> :)</em>
 
 ---
