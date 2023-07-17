@@ -28,7 +28,20 @@
 </div>
 
 ---
+### 📫 Contact me
 
+<div>
+    <a href="https://www.linkedin.com/in/jaircornejo25?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCoH1WdzzQ8qpAEIC6ZtYsA%3D%3D"><img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="" width="40" height="40"></a>
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="" width="40" height="40"></a> 
+</div>
+
+---
+
+### 🔥 Look what I can do
+
+<div>
+    <a href="https://jairale25.github.io/Mi-Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="" width="60" height="60"></a>
+</div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar <b>,¡estaré feliz de conocerte más!</b> :)</em>
 
