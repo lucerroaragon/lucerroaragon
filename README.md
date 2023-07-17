@@ -6,7 +6,7 @@
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 
 [![Linkedin: cerroaragonl](https://img.shields.io/badge/-cerroaragonl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cerroaragonl/)](https://www.linkedin.com/in/cerroaragonl/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub Lucerroaragon](https://img.shields.io/github/followers/lucerroaragon?label=follow&style=social)](https://github.com/lucerroaragon)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mí...  
