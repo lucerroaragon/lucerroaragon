@@ -40,9 +40,9 @@
 ### 🔥 Look what I can do
 
 <div>
-    <a href="https://jairale25.github.io/Mi-Portfolio/"><img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="" width="60" height="60"></a>
+    <a href="https://lucerroaragon.github.io/lu_cerroaragon/"><img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="" width="60" height="60"></a>
 </div>
-
+---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar <b>,¡estaré feliz de conocerte más!</b> :)</em>
 
 ---
