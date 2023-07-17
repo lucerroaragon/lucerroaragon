@@ -12,6 +12,6 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mí...  
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar <b>¡Estare feliz de conocerte más!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar <b>,¡estaré feliz de conocerte más!</b> :)</em>
 
 ---
