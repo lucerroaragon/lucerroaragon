@@ -4,7 +4,8 @@
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: cerroaragonl](https://img.shields.io/badge/-cerroaragonl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cerroaragonl/)][(https://www.linkedin.com/in/cerroaragonl/)]
+
+[![Linkedin: cerroaragonl](https://img.shields.io/badge/-cerroaragonl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cerroaragonl/)](https://www.linkedin.com/in/cerroaragonl/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
