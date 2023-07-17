@@ -3,7 +3,7 @@
 <p><em>Estudiante de programación <a href="https://www.frgp.utn.edu.ar"> Universidad Tecnologica Nacional (UTN)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolladora Front-End 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/CerroAragonlu?style=social)](https://twitter.com/CerroAragonlu)
+[![Twitter: CerroAragonlu](https://img.shields.io/twitter/follow/CerroAragonlu?style=social)](https://twitter.com/CerroAragonlu)
 
 [![Linkedin: cerroaragonl](https://img.shields.io/badge/-cerroaragonl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cerroaragonl/)](https://www.linkedin.com/in/cerroaragonl/)
 [![GitHub Lucerroaragon](https://img.shields.io/github/followers/lucerroaragon?label=follow&style=social)](https://github.com/lucerroaragon)
