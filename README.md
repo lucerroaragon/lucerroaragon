@@ -33,6 +33,7 @@
 <div>
     <a href="https://www.linkedin.com/in/cerroaragonl?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCoH1WdzzQ8qpAEIC6ZtYsA%3D%3D"><img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="" width="40" height="40"></a>
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxThllBdXNDzBDcpcVZPRHllFxLwjHskpvGBsmlmrQpblCQXzQJQgLcFrGTCPMnkJjbCQf"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="" width="40" height="40"></a> 
+    <a href="https://www.soydarwin.com">
 </div>
 
 
