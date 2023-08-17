@@ -40,7 +40,7 @@
 ### 🔥 Look what I can do
 
 <div>
-    <a href="https://lucerroaragon.github.io/lu_cerroaragon/"><img src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="" width="60" height="60"></a>
+    <a href="https://www.soydarwin.com" alt="" width="60" height="60"></a>
 </div>
 
 
