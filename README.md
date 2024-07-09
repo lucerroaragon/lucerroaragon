@@ -42,10 +42,10 @@ National technological university (UTN)</a><img src="https://media.giphy.com/med
 ### 🔥 Look what I can do
 
 <div>
-    <a href="https://www.soydarwin.com" alt="" width="60" height="60"></a>
+    <a href="https://www.holy-madre.com" alt="" width="60" height="60"></a>
 </div>
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectarme con diferentes personas</b> así que si quieres saludar <b>,¡estaré feliz de conocerte más!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I like conect with diferent persons</b> so if you want to say hello <b>,I will be happy to get to know you more!</b> :)</em>
 
 ---
