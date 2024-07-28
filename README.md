@@ -42,10 +42,11 @@ National technological university (UTN)</a><img src="https://media.giphy.com/med
 ### 🔥 Look what I can do
 
 <div>
-    <a href= "https://lucerroaragon.github.io/Iam/> <img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="" width="40" height="40"></a>
-</div>
+    <a href= "https://lucerroaragon.github.io/Iam/><img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="" width="40" height="40"></a>
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I like conect with diferent persons</b> so if you want to say hello <b>,I will be happy to get to know you more!</b> :)</em>
 
 ---
+</div>
