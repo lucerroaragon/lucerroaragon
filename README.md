@@ -8,7 +8,7 @@ National technological university (UTN)</a><img src="https://media.giphy.com/med
 [![Twitter: CerroAragonlu](https://img.shields.io/twitter/follow/CerroAragonlu?style=social)](https://twitter.com/CerroAragonlu)
 
 [![Linkedin: cerroaragonl](https://img.shields.io/badge/-cerroaragonl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cerroaragonl/)](https://www.linkedin.com/in/cerroaragonl/)
-[![GitHub Lucerroaragon](https://img.shields.io/github/follow/lucerroaragon?label=follow&style=social)](https://lucerroaragon.github.io/Iam/)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...
@@ -42,7 +42,7 @@ National technological university (UTN)</a><img src="https://media.giphy.com/med
 ### 🔥 Look what I can do
 
 <div>
-    <a href= "https://lucerroaragon.github.io/Iam/ width="60" height="60"></a>
+    <a href= "https://lucerroaragon.github.io/Iam/> <img src="https://img.freepik.com/iconos-gratis/linkedin_318-157468.jpg?w=2000" alt="" width="40" height="40"></a>
 </div>
 
 
