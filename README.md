@@ -24,6 +24,7 @@ National technological university (UTN)</a><img src="https://media.giphy.com/med
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="" width="80" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="40" height="40">
+        <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="" width="40" height="40">
         
 
         
