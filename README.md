@@ -46,6 +46,8 @@ National technological university (UTN)</a><img src="https://media.giphy.com/med
 
 <div>
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I like conect with diferent persons</b>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I like conect with diferent persons</b> so if you want to say hello <b>,I will be happy to get to know you more!</b> :)</em>
 
 ---
