@@ -1,6 +1,7 @@
 <h2> Hi, I'm Luciana Cerro Aragon! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Development student <a href="https://www.frgp.utn.edu.ar"> 
+<p><em>Development student <a href="https://www.frgp.utn.edu.ar">
+<p>My notes</p><blockquote class="imgur-embed-pub" lang="en" data-id="a/mxSnCJL" data-context="false" ><a href="//imgur.com/a/mxSnCJL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 National technological university (UTN)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Developer
 
 </em></p>
