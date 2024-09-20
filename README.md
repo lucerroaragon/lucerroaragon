@@ -25,7 +25,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="40" height="40">
         <img src="https://play-lh.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk" width="40" height="40">
         <img src="https://cdn-icons-png.flaticon.com/512/825/825500.png" alt="" width="40" height="40">
-        
+        <img src="https://companieslogo.com/img/orig/VTEX-64045aa2.png?t=1720244494" alt="" width="40" height="40">
 
         
  
