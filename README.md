@@ -23,7 +23,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="" width="80" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="" width="40" height="40">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="" width="40" height="40">
-        <img src="https://e7.pngegg.com/pngimages/385/581/png-clipart-brand-logo-microsoft-net-and-sap-microsoft-lumia-paperback-framework-icon-purple-blue.png" width="40" height="40">
+        <img src="https://play-lh.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk" width="40" height="40">
         <img src="https://cdn-icons-png.flaticon.com/512/825/825500.png" alt="" width="40" height="40">
         
 
